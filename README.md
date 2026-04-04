@@ -1,10 +1,7 @@
 # ecs
-
-Single-file Python CLI. Zero dependencies.
-
+#!/usr/bin/env python3
 ## Usage
-
 ```bash
-python3 ecs.py
-python3 ecs.py test
+python3 ecs.py --help
 ```
+Single-file Python, zero dependencies.
